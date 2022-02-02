@@ -3,7 +3,7 @@
  
 # Usage tutorial for example project
 
-Download from the releases, simply run "npm run dev" with npm installed when inside the folder with terminal.
+Clone repository somewhere, simply run "npm run dev" with npm installed when inside the folder with terminal.
 
 Localhost serves the application, port is included in the index, so localhost:3000/{routing} where {routing} is the specific api route
  
