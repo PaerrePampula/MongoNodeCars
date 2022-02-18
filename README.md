@@ -1,6 +1,10 @@
 # MongoNodeCars
  An example project demonstrating use of nosql database (mongodb) with a nodejs express server
+# Heroku app!
+ Here is a link to the [Heroku App!](https://fierce-waters-19179.herokuapp.com/cars)
  
+ The api uses the following routing:
+ "/cars" [GET,POST,DELETE,PUT]
 # Usage tutorial for example project
 
 Clone repository somewhere, simply run "npm run dev" with npm installed when inside the folder with terminal.
